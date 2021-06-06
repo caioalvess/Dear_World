@@ -50,7 +50,7 @@ section .bannerVideo video.active {
     left: 0;
     width: 50%;
     height: 100%;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
 }
 .container header {
     position: absolute;
